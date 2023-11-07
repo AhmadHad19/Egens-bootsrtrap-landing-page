@@ -1,0 +1,77 @@
+body{
+    font-family: 'Jost', sans-serif;
+    background-color: #E9EDF4;
+}
+
+.nav-link{
+    font-size: 18px;
+    text-transform: capitalize;
+    line-height: 50px;
+    cursor: pointer;
+    font-family: "Jost", sans-serif;
+    font-weight: 500;
+    color: #1c1c1c;
+    position: relative;
+    transition: 0.3s;
+}
+
+.call-icon{
+    background: linear-gradient(135deg, #4526b1 0%, #5435be 45%, #7153d9 66%);
+    padding: 10px;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+.nav-call-us a{
+    text-decoration: none;
+    margin-top: -13px;
+    color: black;
+}
+.nav-item:hover .nav-link{
+    color: #0a58ca;
+}
+
+.Main-sub{
+    font-size: 24px;
+    font-family: "Jost", sans-serif;
+    font-weight: 500;
+    line-height: 1.9;
+    color: #7153d9;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+}
+.Main-sub1{
+    font-size: 72px;
+    font-family: "Jost", sans-serif;
+    font-weight: 500;
+    line-height: 1.16;
+    color: #1c1c1c;
+}
+.Main-p{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #54545f;
+    margin-top: 30px;
+    max-width: 510px;
+}
+.Main-link{
+    background: linear-gradient(135deg, #4526b1 0%, #5435be 45%, #7153d9 66%);
+    border: 0px;
+    border-radius: 27px;
+    padding: 20px 45px;
+    line-height: 1;
+    font-size: 16px;
+    font-family: "Jost", sans-serif;
+    position: relative;
+    color: white;
+}
+.bg-white {
+    background: #E9EDF4 !important;
+    transition: 1.5s ease-in;
+  }
+  
+  .bg-white.scrolled {
+    background: white !important;
+  }
