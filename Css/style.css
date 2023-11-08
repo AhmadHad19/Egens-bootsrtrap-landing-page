@@ -1,5 +1,8 @@
 body{
     font-family: 'Jost', sans-serif;
+    
+}
+.myback{
     background-color: #E9EDF4;
 }
 
@@ -134,4 +137,55 @@ body{
 }
 .mycard a:hover{
   margin-left: 10px;
+}
+.blog-link{
+    background: #e2c4ff;
+    color: #1c1c1c;
+    border-radius: 27px;
+    padding: 15px 45px;
+    line-height: 1;
+    font-family: "Jost", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    position: relative;
+    text-decoration: none;
+    
+}
+.blog-link:hover{
+    color: #ffffff;
+    background-color: #7153d9;
+}
+.blog-h{
+    color: #7153d9;
+    font-family: "Jost", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+.blog-a{
+    transition: 0.3s;
+    text-decoration: none;
+    color: #1c1c1c;
+}
+.blog-a:hover{
+    color: #0a58ca;
+}
+.blog-p{
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    color: #54545f;
+    margin: 15px 0 22px;
+}
+.blog-a1{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Jost", sans-serif;
+    color: #1c1c1c;
+    display: flex;
+    align-items: center;
+    line-height: 1;
+    text-decoration: none;
+}
+.blog-a1:hover{
+    color: #7153d9;
+
 }
