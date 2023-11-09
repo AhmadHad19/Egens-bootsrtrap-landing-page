@@ -273,4 +273,10 @@ body{
     font-size: 15px;
 }
 }
+/* taplet size */
+@media(min-width:577px) and (max-width:991px){
+.blog-list{
+    margin-top: 30px;
+}
+}
 
