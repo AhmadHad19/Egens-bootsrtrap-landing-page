@@ -230,4 +230,47 @@ body{
 .main-img{
     margin-top: 50px;
 }
+.feature-card1{
+    margin: 15px 0px;
 }
+.feature-card2{
+    margin-bottom: 15px;
+}
+.img-2{
+    margin-top: 20px;
+}
+.Main-sub2{
+    font-size: 16px;
+    letter-spacing: 4px;
+}
+.Main-h{
+    font-size: 30px;
+}
+.main-p1{
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.blog-content{   
+    padding-left: 12px !important;
+}
+.blog-link{
+    margin-top: 30px !important;
+    padding: 12px 30px;
+    margin-bottom: 20px;
+}
+.blog-img{
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.blog-a{
+    font-size: 18px;
+}
+.blog-p{
+    font-size: 16px;
+}
+.blog-a1{
+    font-size: 15px;
+}
+}
+
